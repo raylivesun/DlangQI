@@ -1,4 +1,4 @@
-module matrix.gnu.bin.fury;
+module matrix.gnu.bin.thyphon;
 
 // Properties for Floating Point Types
 // .init
@@ -29,11 +29,11 @@ module matrix.gnu.bin.fury;
 // .min
 // smallest representable value that's not 0
 
-class MyFury
+class MyValues
 {
-    interface MyQuake
+    interface MyAgreements
     {
-         struct MyDestory
+         struct MyStorages
          {
               enum bool infinity = 9999**9999;
          }        

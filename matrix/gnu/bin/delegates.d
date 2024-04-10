@@ -15,7 +15,7 @@ Delegates are declared similarly to function pointers, except that the keyword d
 the place of (*), and the identifier occurs afterwards:
 **/ 
 
-class MyDelegateTarDeus
+class MyDelegateDeus
 {
    interface MyAggregates
    {

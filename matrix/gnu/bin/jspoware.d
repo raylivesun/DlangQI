@@ -6,11 +6,11 @@ import std.zlib;
 
 // Delegates cannot be initialized with static member functions or non-member functions.
 // Delegates are called analogously to function pointers:
-class MyCarNayBys
+class MyGramatics
 {
-    interface MyOneAuto
+    interface MyAuto
     {
-        struct MyCarCool
+        struct MyCool
         {
             int fp(third); // call func(3)
             int dg(third); // call o.member(3)           

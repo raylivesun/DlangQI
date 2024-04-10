@@ -1,4 +1,4 @@
-module matrix.gnu.bin.hulkdestroy;
+module matrix.gnu.bin.hulksea;
 
 // Properties for Floating Point Types
 // .init
@@ -29,11 +29,11 @@ module matrix.gnu.bin.hulkdestroy;
 // .min
 // smallest representable value that's not 0
 
-class MyFury
+class MyValues
 {
-    interface MyQuake
+    interface MyCounts
     {
-         struct MyExplosiveNuclearDestory
+         struct MyStorages
          {
               enum bool infinity = 9999**9999;
          }        
